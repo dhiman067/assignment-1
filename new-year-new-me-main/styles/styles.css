@@ -1,0 +1,202 @@
+
+.position{
+    position: absolute;
+    /* text-align: center; */
+    display: flex;
+    
+    
+width: 525px;
+height: 228px;
+left: 845px;
+top: 200px;
+font-style: normal;
+font-weight: 700;
+font-size: 65px;
+line-height: 76px;
+text-align: right;
+
+
+color: white;
+
+
+}
+.paragraph{
+    position: absolute;
+width: 494px;
+height: 78px;
+left: 876px;
+top: 450px;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+/* or 162% */
+
+text-align: right;
+
+color: white;
+margin-top: 30px;
+
+
+}
+header{
+    background-image: url(../images/banner/banner3.png);
+    position: absolute;
+width: 1600px;
+height: 808px;
+left: 10px;
+top: 0px;
+background-repeat: no-repeat;
+
+
+
+
+
+}
+.button{
+    position: absolute;
+    width: 160px;
+height: 64px;
+left: 1210px;
+top: 600px;
+margin-top: 15px;
+font-size: medium;
+
+
+}
+.img{
+    position: absolute;
+    /* width: 1072px; */
+    /* height: 723.3px; */
+    left: 206px;
+    top: 939px;
+}
+.h1-position{
+    position: absolute;
+width: 288px;
+height: 94px;
+left: 862px;
+top: 1178px;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+}
+   .p1{
+    position: absolute;
+width: 416px;
+height: 104px;
+left: 862px;
+top: 1296px;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+   }
+   .li{
+    position: absolute;
+width: 349px;
+height: 162px;
+left: 862px;
+top: 1416px;
+list-style: none;
+
+   }
+
+*{
+    font-family: 'Work Sans', sans-serif;
+}
+    .li-sizes{
+        margin-top: 16px;
+        margin-bottom: 8px;
+    }
+    .h1-sizes{
+        margin-top: 1792.3px;
+        margin-left: 700px;
+        /* margin-right: 710px; */
+        margin-bottom: 70px;
+        font-weight: 900px;
+
+    }
+    .skills{
+        /* text-align: center; */
+        /* position: absolute; */
+        /* width: 447px; */
+        font-weight: 900;
+font-size: 30px;
+width: 447px;
+    }
+    .intend{
+        /* text-align: center; */
+        font-weight: 500;
+font-size: 25px;
+/* margin-left: 10px; */
+    }
+    .container{
+        /* position: absolute; */
+        display: flex;
+    
+    }
+    .button-2{
+        position: absolute;
+width: 160px;
+height: 64px;
+left: 294px;
+top: 2393.3px;
+margin-top: 24px;
+margin-bottom: 59px;
+margin-left: 64px;
+margin-right: 916px;
+
+    }
+    .image-blend{
+        position: absolute;
+width: 1140px;
+height: 300px;
+left: 294px;
+top: 2275.3px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+margin-top: 59px;
+margin-bottom: 147px;
+margin-right: 617px;
+margin-left: 64px;
+background-image: url(../images/watch.png);
+
+    }
+    .contact{
+        margin-top: 554.04px;
+        display: flex;
+        background-color: black;
+        
+    }
+    .info{
+        margin-top: 130px;
+        margin-bottom: 130px;
+        margin-left: 230px;
+        margin-right: 885px;
+        color: white;
+    }
+    .contact-info{
+        margin-top: 130px;
+        margin-right: 229px;
+        margin-bottom: 243px;
+        color: white;
+        
+    }
+    .button3{
+        position: absolute;
+width: 100px;
+height: 40px;
+left: 1505px;
+top: 2916.3px;
+margin-top: 40px;
+color: #F15B22;
+
+    }
+       .main{
+        margin-left: 230px;
+        margin-right: 1px;
+       }
